@@ -1,0 +1,5 @@
+{
+	"ip":"tf3li.aternos.me",
+	"port": "51122",
+	"name": "bot"
+}
